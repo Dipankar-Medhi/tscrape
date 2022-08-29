@@ -1,5 +1,8 @@
-# TScrape
- 
+![tscrape.png](images/tscrape.png)
+A simple command line tool for Data Scientists to scrape tweets without using the Twitter API.
+
+---
+
 ## Tools and libraries used
 - [typer](https://typer.tiangolo.com/)
 - pandas
@@ -30,6 +33,7 @@
 6. Enter the optional arguments.
    ```
    $ python main.py
+   
    Enter the keyword: <keyword>
    Tweets by username: <username>
    Username mentioned in the tweets: <mentioned-usermane>
