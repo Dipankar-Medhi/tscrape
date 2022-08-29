@@ -11,7 +11,7 @@ A simple command line tool for Data Scientists to scrape tweets without using th
 ## How to use
 1. Clone the repository into your local machine.
    ```
-   git clone <url>
+   git clone https://github.com/Dipankar-Medhi/tscrape.git
    ```
 
 2. Make a virtual environemnt.
@@ -33,7 +33,7 @@ A simple command line tool for Data Scientists to scrape tweets without using th
 6. Enter the optional arguments.
    ```
    $ python main.py
-   
+
    Enter the keyword: <keyword>
    Tweets by username: <username>
    Username mentioned in the tweets: <mentioned-usermane>
