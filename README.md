@@ -1,4 +1,5 @@
 ![tscrape.png](images/tscrape.png)
+
 A simple command line tool for Data Scientists to scrape tweets without using the Twitter API.
 
 ---
