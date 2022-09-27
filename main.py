@@ -68,6 +68,7 @@ def scrape(
 
     scraper = Scraper()
     tweet_list = scraper.get_tweets(query, rows)
+    print(tweet_list)
 
     save_file(tweet_list, filename)
 

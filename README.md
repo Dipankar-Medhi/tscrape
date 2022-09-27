@@ -12,6 +12,8 @@ A simple command line tool for Data Scientists to scrape tweets without using th
 1. Clone the repository into your local machine.
    ```
    git clone https://github.com/Dipankar-Medhi/tscrape.git
+
+   cd <into-cloned-dir>
    ```
 
 2. Make a virtual environemnt.
